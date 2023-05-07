@@ -111,6 +111,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6352642dc51d7144b947ad8001b2fc54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soldierPrefab: {fileID: 0}
+  soldierPrefab: {fileID: 5600471329425943912, guid: b2c4fbaf307010f4abcea380e2af58d7, type: 3}
   moveSpeed: 15
-  enemy: {fileID: 0}
+  enemy: {fileID: 1197218631714037698, guid: 9884a52b7e1bf5347a61e874cc0d1f6e, type: 3}
+  spawnPointx: 0
+  spawnPointy: 0
+  spawnPointz: 0

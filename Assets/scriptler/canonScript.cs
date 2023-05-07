@@ -16,7 +16,6 @@ public class canonScript : MonoBehaviour
     private Vector3 moveDirection;
     private float spawnTimer;
 
-    
 
     void Start()
     {
@@ -30,10 +29,6 @@ public class canonScript : MonoBehaviour
         // Move character
         moveDirection = new Vector3(mouseX, 0, 0);
         transform.position += moveDirection * moveSpeed * Time.deltaTime;
-
-
-
-
 
 
         // Spawn soldiers
